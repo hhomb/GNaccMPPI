@@ -6,7 +6,7 @@
 
 ## Overview  
 This repository accompanies the paper:  
-**"Gauss-Newton accelerated MPPI"** This work presents **an** enhanced MPPI method that incorporates the fast convergence of **the** second-order Gauss-Newton method. Key features include:  
+**"Gauss-Newton accelerated MPPI"** This work presents an enhanced MPPI method that incorporates the fast convergence of the second-order Gauss-Newton method. Key features include:  
 - **Robust interface** by incorporating a sampling-based Jacobian reconstruction technique.
 - **Fast convergence** powered by the update rule of the Generalized Gauss-Newton method.  
 - **Broad applicability** to possibly nonsmooth and nonconvex black-box optimization problems.
